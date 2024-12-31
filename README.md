@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1025-minimum-cost-for-tickets](https://github.com/airaider/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/airaider/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1720-crawler-log-folder](https://github.com/airaider/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/airaider/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/airaider/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-minimum-cost-for-tickets](https://github.com/airaider/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 <!---LeetCode Topics End-->
